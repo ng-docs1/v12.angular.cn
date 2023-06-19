@@ -1,2 +1,0 @@
-Sitemap: https://v12.angular.cn/sitemap.xml
-User-agent: *
